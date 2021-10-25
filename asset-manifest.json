@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jkphotograp/jkphotograp.github.io/static/css/main.a617e044.chunk.css",
+    "main.js": "/jkphotograp/jkphotograp.github.io/static/js/main.b2d359e2.chunk.js",
+    "main.js.map": "/jkphotograp/jkphotograp.github.io/static/js/main.b2d359e2.chunk.js.map",
+    "runtime-main.js": "/jkphotograp/jkphotograp.github.io/static/js/runtime-main.f5045aa1.js",
+    "runtime-main.js.map": "/jkphotograp/jkphotograp.github.io/static/js/runtime-main.f5045aa1.js.map",
+    "static/js/2.8833cd6e.chunk.js": "/jkphotograp/jkphotograp.github.io/static/js/2.8833cd6e.chunk.js",
+    "static/js/2.8833cd6e.chunk.js.map": "/jkphotograp/jkphotograp.github.io/static/js/2.8833cd6e.chunk.js.map",
+    "static/js/3.ff0311e9.chunk.js": "/jkphotograp/jkphotograp.github.io/static/js/3.ff0311e9.chunk.js",
+    "static/js/3.ff0311e9.chunk.js.map": "/jkphotograp/jkphotograp.github.io/static/js/3.ff0311e9.chunk.js.map",
+    "index.html": "/jkphotograp/jkphotograp.github.io/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/jkphotograp/jkphotograp.github.io/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.8833cd6e.chunk.js.LICENSE.txt": "/jkphotograp/jkphotograp.github.io/static/js/2.8833cd6e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/jkphotograp/jkphotograp.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5045aa1.js",
+    "static/js/2.8833cd6e.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.b2d359e2.chunk.js"
+  ]
+}
